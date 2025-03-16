@@ -15,5 +15,6 @@ The most experience that I have is like consultant, where my activities was:
 * **Live SOC Monitoring (LetsDefend)**: Monitored real-time security alerts, performed triage, and investigated
 incidents in a simulated SOC environment.
 ### Learning Paths
+**Malware Analysis Skill Path**
 ![Malware Analysis Skill Path](./badges/malware-analys-skill-path.png)
 ### Skills badges
