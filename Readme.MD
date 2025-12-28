@@ -7,15 +7,15 @@
 
 ## Skills
 
-**IT Security Expert** **Reverser Engineer** **Phishing Expert** **Lab Builder** **Malware Analyzer**
+**#IT Security Expert** **#Reverser Engineer** **#Phishing Expert** **#Lab Builder** **#Malware Analyzer**
 
-**Lab Builder** **Incident Management** **Brute Force** **SIEM 101** **Splunk Engineer** **Office Document Analyzer**
+**#Lab Builder** **#Incident Management** **#Brute Force** **#SIEM 101** **#Splunk Engineer** **#Office Document Analyzer**
 
-**Threat Analyst** **Network Analyzer** **Web Attack** **Investigator** **Wireshark Expert** **Security Solutions** **VirusTotal**
+**#Threat Analyst** **#Network Analyzer** **#Web Attack** **#Investigator** **#Wireshark Expert** **#Security Solutions** **#VirusTotal**
 
-**MITRE ATT&CK** **Dynamic Analyst** **SOC Member** **Web Hunter** **Static Analyzer** **Cyber Kill Chain** **MSHTML Analyzer**
+**#MITRE ATT&CK** **#Dynamic Analyst** **#Web Hunter** **#Static Analyzer** **#Cyber Kill Chain** **#MSHTML Analyzer**
 
-**Web Attack Investigated** **Web Expert** **Phishing Analyzer** **First Blood** **Incident Handler** **Incident Handler - 2**
+**#Web Attack Investigated** **#Web Expert** **#Phishing Analyzer** **Incident Handler**
 
 **SOC Analyst Learning Path** **Malware Analysis Skill Path**
 
