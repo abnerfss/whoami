@@ -11,11 +11,11 @@
 
 **#Lab Builder** **#Incident Management** **#Brute Force** **#SIEM 101** **#Splunk Engineer** **#Office Document Analyzer**
 
-**#Threat Analyst** **#Network Analyzer** **#Web Attack** **#Investigator** **#Wireshark Expert** **#Security Solutions** **#VirusTotal**
+**#Threat Analyst** **#Network Analyzer** **#Web Attack** **#Investigator** **#Wireshark Expert** **#Security Solutions** 
 
-**#MITRE ATT&CK** **#Dynamic Analyst** **#Web Hunter** **#Static Analyzer** **#Cyber Kill Chain** **#MSHTML Analyzer**
+**#VirusTotal** **#MITRE ATT&CK** **#Dynamic Analyst** **#Web Hunter** **#Static Analyzer** 
 
-**#Web Attack Investigated** **#Web Expert** **#Phishing Analyzer** **Incident Handler**
+**#Cyber Kill Chain** **#MSHTML Analyzer** **#Web Attack Investigated** **#Web Expert** **Incident Handler**
 
 **SOC Analyst Learning Path** **Malware Analysis Skill Path**
 
