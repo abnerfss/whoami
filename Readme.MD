@@ -13,9 +13,9 @@
 
 **#Threat Analyst** **#Network Analyzer** **#Web Attack** **#Investigator** **#Wireshark Expert** **#Security Solutions** 
 
-**#VirusTotal** **#MITRE ATT&CK** **#Dynamic Analyst** **#Web Hunter** **#Static Analyzer** 
+**#VirusTotal** **#MITRE ATT&CK** **#Web Hunter** **#Static Analyzer** **#Cyber Kill Chain** **#MSHTML Analyzer** 
 
-**#Cyber Kill Chain** **#MSHTML Analyzer** **#Web Attack Investigated** **#Web Expert** **Incident Handler**
+**#Web Attack Investigated** **#Web Expert** **#Incident Handler**
 
 ### Learned
 **SOC Analyst Learning Path** 
