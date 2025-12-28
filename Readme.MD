@@ -18,8 +18,9 @@
 **#Web Attack Investigated** **#Web Expert** **#Incident Handler**
 
 ### Learned
-**SOC Analyst Learning Path** 
-**Malware Analysis Skill Path**
+* **SOC Analyst Learning Path** 
+
+* **Malware Analysis Skill Path**
 
 ## Certifications
 <img src="/assets/img/certifications/comptia1.png" alt="Your Image Certification" /> <img src="/assets/img/certifications/gcp1.png" alt="Your Image Certification" /> <img src="/assets/img/certifications/aws1.png" alt="Your Image Certification" />
