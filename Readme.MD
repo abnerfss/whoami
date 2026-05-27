@@ -1,26 +1,60 @@
-# Cyber Security Professional
+# Abner Fernandez - Cyber Security Professional
 
-## Projects
-**Try Hack Me**
+## 🎯 About Me
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/abnerfss.png" alt="Your Image Badge" />
+Security-focused professional specializing in incident response, threat analysis, and malware investigation. Dedicated to continuous learning and building robust security solutions.
 
-## Skills
+---
 
-**#IT Security Expert** **#Reverser Engineer** **#Phishing Expert** **#Lab Builder** **#Malware Analyzer**
+## 🏆 Accomplishments
 
-**#Lab Builder** **#Incident Management** **#Brute Force** **#SIEM 101** **#Splunk Engineer** **#Office Document Analyzer**
+### Try Hack Me
+<img src="https://tryhackme-badges.s3.amazonaws.com/abnerfss.png" alt="TryHackMe Badge" />
 
-**#Threat Analyst** **#Network Analyzer** **#Web Attack** **#Investigator** **#Wireshark Expert** **#Security Solutions** 
+---
 
-**#VirusTotal** **#MITRE ATT&CK** **#Web Hunter** **#Static Analyzer** **#Cyber Kill Chain** **#MSHTML Analyzer** 
+## 💼 Core Expertise
 
-**#Web Attack Investigated** **#Web Expert** **#Incident Handler**
+### Security Operations & Analysis
+- SOC Analyst | Incident Handler | Threat Analyst
+- SIEM & Splunk Engineer | Incident Management
+- Security Solutions Architecture
 
-### Learned
-* **SOC Analyst Learning Path** 
+### Malware & Reverse Engineering
+- Malware Analyzer | Reverse Engineer
+- Static Code Analyzer | MSHTML Analyzer
+- Office Document Analyzer
 
-* **Malware Analysis Skill Path**
+### Network & Web Security
+- Network Analyzer | Wireshark Expert
+- Web Attack Investigation | Web Hunter
+- Phishing Expert
 
-## Certifications
-<img src="/assets/img/certifications/comptia1.png" alt="Your Image Certification" /> <img src="/assets/img/certifications/gcp1.png" alt="Your Image Certification" /> <img src="/assets/img/certifications/aws1.png" alt="Your Image Certification" />
+### Threat Intelligence & Tools
+- MITRE ATT&CK Framework | Cyber Kill Chain
+- VirusTotal Analysis | Lab Builder
+- Brute Force Techniques
+
+---
+
+## 📚 Learning Paths Completed
+
+- **SOC Analyst Learning Path**
+- **Malware Analysis Skill Path**
+
+---
+
+## 🎓 Certifications
+
+<img src="/assets/img/certifications/comptia1.png" alt="CompTIA Certification" /> 
+<img src="/assets/img/certifications/gcp1.png" alt="GCP Certification" />
+
+---
+
+## 📊 Key Skills Summary
+
+| Category | Skills |
+|----------|--------|
+| **Threat Analysis** | MITRE ATT&CK, Cyber Kill Chain, Web Attack Investigation |
+| **Tools & Platforms** | Splunk, Wireshark, VirusTotal, Office Analyzers |
+| **Core Competencies** | Incident Management, Lab Development, Phishing Analysis |
