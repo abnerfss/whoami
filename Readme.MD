@@ -48,6 +48,7 @@ Security-focused professional specializing in incident response, threat analysis
 
 <img src="/assets/img/certifications/comptia1.png" alt="CompTIA Certification" /> 
 <img src="/assets/img/certifications/gcp1.png" alt="GCP Certification" />
+<img src="/assets/img/certifications/aws1.png" alt="AWS Certification" />
 
 ---
 
